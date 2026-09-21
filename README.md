@@ -179,31 +179,30 @@ Sementara itu, command `/surprise`, `/random`, dan `/trivia` membutuhkan pemangg
 
 Berikut merupakan contoh penggunaan Cinephile dalam percakapan.
 
-> **Screenshot percakapan dapat ditambahkan pada bagian ini.**
+**Tampilan Awal Cinephile.**
+![1789978733825](image/README/1789978733825.png)
 
-### Contoh Input
+**Contoh Penggunaan Commands (`/help`)**
+![1789978875573](image/README/1789978875573.png)
 
-```text
-Aku pengen film yang bikin tegang tapi nggak terlalu banyak jumpscare.
-```
+**Contoh Penggunaan Commands (`/watchlist`)**
+![1789980646184](image/README/1789980646184.png)
 
-Cinephile akan memberikan rekomendasi film berdasarkan preferensi yang diberikan dalam percakapan.
+**Chat Rekomendasi Film**
+![1789979010849](image/README/1789979010849.png)
+![1789979568526](image/README/1789979568526.png)
+![1789979585993](image/README/1789979585993.png)
 
-### Contoh Command
+**Chat Topik di Luar Film**
+![1789980426526](image/README/1789980426526.png)
 
-Pengguna juga dapat menggunakan command yang tersedia, misalnya:
+**Chat Topik di Luar Film dengan Temperature Besar**
+![1789980484786](image/README/1789980484786.png)
 
-```text
-/surprise
-```
-
-atau:
-
-```text
-/trivia
-```
-
-Command `/surprise` akan meminta AI untuk memberikan rekomendasi film secara acak, sedangkan `/trivia` digunakan untuk mendapatkan fakta menarik mengenai dunia perfilman.
+**Chat Topik Umum yang Dikaitkan Film**
+![1789980872116](image/README/1789980872116.png)
+![1789981048674](image/README/1789981048674.png)
+![1789981062198](image/README/1789981062198.png)
 
 ---
 
