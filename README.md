@@ -264,8 +264,6 @@ Penyimpanan ini memungkinkan pengguna untuk membuka kembali percakapan yang tela
 
 Folder `cinephile/` merupakan **virtual environment Python** yang digunakan untuk mengisolasi dependencies Cinephile dari environment Python lainnya.
 
-Virtual environment ini digunakan secara lokal dan **tidak perlu dimasukkan ke repository Git**.
-
 ## `.env`
 
 File `.env` digunakan untuk menyimpan API key Groq secara lokal.
@@ -276,8 +274,6 @@ Contoh isi file:
 GROQ_API_KEY=isi_api_key_milikmu_di_sini
 ```
 
-File `.env` tidak boleh dibagikan atau dimasukkan ke repository publik karena berisi informasi sensitif.
-
 ## `.env.example`
 
 File `.env.example` merupakan template yang menunjukkan environment variable yang dibutuhkan oleh aplikasi.
@@ -287,10 +283,6 @@ Contoh:
 ```env
 GROQ_API_KEY=
 ```
-
-File ini dapat dimasukkan ke repository karena tidak berisi API key asli.
-
-Pengguna dapat menyalin file tersebut menjadi `.env`, kemudian mengisi API key miliknya.
 
 ## `.gitignore`
 
@@ -331,7 +323,7 @@ Dokumentasi ini berisi informasi mengenai:
 
 # Penggunaan Generative AI dalam Pengembangan
 
-Dalam proses pengembangan chatbot Cinephile, **Generative AI digunakan sebagai alat bantu** dalam beberapa tahap, yaitu **brainstorming, perancangan, pengembangan, dan dokumentasi**.
+Dalam proses pengembangan chatbot Cinephile, Generative AI digunakan sebagai alat bantu dalam beberapa tahap, yaitu brainstorming, perancangan, pengembangan, dan dokumentasi.
 
 Pada tahap brainstorming dan perancangan, Generative AI digunakan untuk membantu mencari serta mengembangkan ide terkait fitur dan command yang dapat digunakan pada chatbot, seperti:
 
@@ -343,8 +335,8 @@ Pada tahap brainstorming dan perancangan, Generative AI digunakan untuk membantu
 * `/trivia`
 * `/watchlist`
 
-Generative AI juga digunakan sebagai bantuan dalam merancang dan mengembangkan tampilan **sidebar** pada aplikasi. Bantuan tersebut mencakup penyusunan komponen antarmuka serta pengaturan fitur yang ditampilkan pada sidebar.
+Generative AI juga digunakan sebagai bantuan dalam merancang dan mengembangkan tampilan UI pada aplikasi. Bantuan tersebut mencakup penyusunan komponen antarmuka.
 
-Selain itu, Generative AI digunakan sebagai bantuan dalam menyusun dan memperbaiki dokumentasi `README.md` agar informasi mengenai aplikasi, fitur, command, struktur project, dan cara penggunaan dapat disampaikan dengan lebih terstruktur.
+Selain itu, Generative AI digunakan sebagai bantuan dalam menyusun dan memperbaiki dokumentasi `README.md` agar informasi mengenai aplikasi, fitur, command, struktur project, dan cara penggunaan.
 
-Hasil dari bantuan Generative AI kemudian **disesuaikan kembali dengan kebutuhan aplikasi, diperiksa, diuji, dan diimplementasikan** ke dalam kode sesuai dengan rancangan yang dibuat.
+Hasil dari bantuan Generative AI kemudian disesuaikan kembali dengan kebutuhan aplikasi, diperiksa, diuji, dan diimplementasikan ke dalam kode sesuai dengan rancangan yang dibuat.
