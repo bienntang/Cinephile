@@ -204,6 +204,9 @@ Berikut merupakan contoh penggunaan Cinephile dalam percakapan.
 ![1789981048674](image/README/1789981048674.png)
 ![1789981062198](image/README/1789981062198.png)
 
+**Chat dengan Menggunakan BYOK**
+![1789983257781](image/README/1789983257781.png)
+
 ---
 
 # Penjelasan Kode
