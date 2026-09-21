@@ -42,6 +42,9 @@ Clone repository kemudian masuk ke folder project.
 
 ```bash
 git clone https://github.com/bienntang/ChatbotAI-Cinephile.git
+```
+
+```bash
 cd Cinephile
 ```
 
@@ -51,12 +54,16 @@ Virtual environment bersifat opsional, tetapi disarankan agar dependencies proje
 ### Windows
 ```
 python -m venv cinephile
+```
+```
 cinephile\Scripts\activate
 ```
 
 ### Linux / MacOS
 ```
 python -m venv cinephile
+```
+```
 source cinephile\bin\activate
 ```
 
