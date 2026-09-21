@@ -41,7 +41,7 @@ Sebelum menjalankan Cinephile, pastikan sudah tersedia:
 Clone repository kemudian masuk ke folder project.
 
 ```bash
-git clone https://github.com/bienntang/ChatbotAI-Cinephile.git
+git clone https://github.com/bienntang/Cinephile.git
 ```
 
 ```bash
